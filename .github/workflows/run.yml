@@ -1,4 +1,4 @@
-name: CI
+name: Run
 
 on:
   push:
@@ -16,3 +16,4 @@ jobs:
         run: |
           echo 草は生やす物
           echo 多分
+          date
