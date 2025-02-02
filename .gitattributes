@@ -1,3 +1,4 @@
 * text=auto eol=lf
 
 日記.md linguist-detectable -linguist-documentation
+/memo/*.md linguist-detectable -linguist-documentation
